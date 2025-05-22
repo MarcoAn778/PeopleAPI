@@ -5,5 +5,4 @@ Estilo arquitetural REST;
 Spring Boot Framework;
 Spring Data;
 MapStruct;
-Spring Test;
 Postman;
